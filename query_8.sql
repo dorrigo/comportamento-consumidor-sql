@@ -7,7 +7,8 @@ FROM
     vw_ecommerce vw_eco
         JOIN
     vw_engajamento vw_eng ON vw_eco.id = vw_eng.id
-GROUP BY vw_eco.purchase_category;
+GROUP BY vw_eco.purchase_category
+ORDER BY media_avaliacao_produto DESC;
 
 -- Clientes que pesquisam mais antes de comprar ficam mais satisfeitos?
 SELECT 
@@ -15,4 +16,5 @@ SELECT
     AVG(customer_satisfaction) AS media_satisfacao_consumidor
 FROM
     vw_engajamento
-GROUP BY time_spent_on_product_Researchhours;
+GROUP BY time_spent_on_product_Researchhours
+ORDER BY time_spent_on_product_Researchhours;
