@@ -2,6 +2,7 @@
 SELECT 
     vw_eng.engagement_with_ads,
     COUNT(DISTINCT vw_eco.id) AS total_clientes,
+    AVG(vw_eco.frequency_of_purchase) AS frequencia_compra,
     AVG(vw_eco.purchase_amount) AS ticket_medio,
     SUM(vw_eco.purchase_amount) AS receita_total
 FROM
