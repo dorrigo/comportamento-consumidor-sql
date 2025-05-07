@@ -107,3 +107,43 @@ Output Query_2
 </table>
 </body></html>
 
+
+## Query_3
+
+Output Query_3
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Data</title>
+</head>
+<body>
+<table border=1>
+<tr>
+<td bgcolor=silver class='medium'>customer_loyalty_program_member</td>
+<td bgcolor=silver class='medium'>total_clientes</td>
+<td bgcolor=silver class='medium'>frequencia_compra</td>
+<td bgcolor=silver class='medium'>ticket_medio</td>
+<td bgcolor=silver class='medium'>receita_total</td>
+<td bgcolor=silver class='medium'>media_satisfacao_consumidor</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>0</td>
+<td class='normal' valign='top'>509</td>
+<td class='normal' valign='top'>6.9961</td>
+<td class='normal' valign='top'>289.0393</td>
+<td class='normal' valign='top'>147121</td>
+<td class='normal' valign='top'>5.3163</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>1</td>
+<td class='normal' valign='top'>491</td>
+<td class='normal' valign='top'>6.8921</td>
+<td class='normal' valign='top'>260.5825</td>
+<td class='normal' valign='top'>127946</td>
+<td class='normal' valign='top'>5.4847</td>
+</tr>
+</table>
+</body></html>
+
