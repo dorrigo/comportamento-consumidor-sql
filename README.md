@@ -4,6 +4,8 @@ Análise de Dados sobre Comportamento do Consumidor usando SQL.
 
 ## Query_1
 
+### Nossa campanha de anúncios está gerando resultados? Clientes que engajam com nossos anúncios compram mais do que os outros?
+
 Output Query_1
 
 <html>
@@ -56,6 +58,8 @@ Output Query_1
 
 
 ## Query_2
+
+### O nível de engajamento nas redes sociais gera mais receita?
 
 Output Query_2
 
@@ -110,6 +114,8 @@ Output Query_2
 
 ## Query_3
 
+### O programa de fidelidade está aumentando o valor dos clientes? Membros compram com mais frequência e gastam mais?
+
 Output Query_3
 
 <html>
@@ -148,6 +154,8 @@ Output Query_3
 </body></html>
 
 ## Query_4
+
+### Qual é o nosso perfil de cliente ideal?
 
 Output Query_4.1
 
@@ -413,6 +421,8 @@ Output Query_4.5
 
 ## Query_5
 
+### Consulta para encontrar as categorias que levam mais tempo de decisão de compra, com o objetivo de identificar quais categorias de produtos podem ser alvos de ações de marketing com intuito de diminuir o tempo de decisão de compra.
+
 Output Query_5
 
 <html>
@@ -504,6 +514,8 @@ Output Query_5
 
 ## Query_6
 
+### Clientes sensíveis a descontos tendem a ter maior taxa de retorno ou menor satisfação?
+
 Output Query_6
 
 <html>
@@ -544,6 +556,8 @@ Output Query_6
 
 
 ## Query_7
+
+### Qual a influência da intenção de compra na frequência de compra, ticket e receita?
 
 Output Query_7
 
@@ -597,6 +611,8 @@ Output Query_7
 
 ## Query_8
 
+### Produtos melhor avaliados geram maior satisfação do cliente? Há relação direta?
+
 Output Query_8.1
 
 <html>
@@ -612,90 +628,6 @@ Output Query_8.1
 </tr>
 
 <tr>
-<td class='normal' valign='top'>Health Supplements</td>
-<td class='normal' valign='top'>3.0732</td>
-<td class='normal' valign='top'>5.2683</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Groceries</td>
-<td class='normal' valign='top'>2.6341</td>
-<td class='normal' valign='top'>5.2195</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Home Appliances</td>
-<td class='normal' valign='top'>2.9400</td>
-<td class='normal' valign='top'>5.2400</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Furniture</td>
-<td class='normal' valign='top'>2.9512</td>
-<td class='normal' valign='top'>5.9512</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Food & Beverages</td>
-<td class='normal' valign='top'>2.7045</td>
-<td class='normal' valign='top'>4.7727</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Clothing</td>
-<td class='normal' valign='top'>2.9667</td>
-<td class='normal' valign='top'>5.8667</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Packages)</td>
-<td class='normal' valign='top'>3.0465</td>
-<td class='normal' valign='top'>5.1163</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Beauty & Personal Care</td>
-<td class='normal' valign='top'>3.2647</td>
-<td class='normal' valign='top'>4.7647</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Arts & Crafts</td>
-<td class='normal' valign='top'>2.6176</td>
-<td class='normal' valign='top'>5.4706</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Sports & Outdoors</td>
-<td class='normal' valign='top'>2.8824</td>
-<td class='normal' valign='top'>5.2157</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Hotels</td>
-<td class='normal' valign='top'>3.2778</td>
-<td class='normal' valign='top'>5.7500</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Electronics</td>
-<td class='normal' valign='top'>2.8889</td>
-<td class='normal' valign='top'>5.7222</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Baby Products</td>
-<td class='normal' valign='top'>3.4634</td>
-<td class='normal' valign='top'>5.5366</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Mobile Accessories</td>
-<td class='normal' valign='top'>3.3171</td>
-<td class='normal' valign='top'>5.7805</td>
-</tr>
-
-<tr>
 <td class='normal' valign='top'>Travel & Leisure (Flights</td>
 <td class='normal' valign='top'>3.5789</td>
 <td class='normal' valign='top'>5.8421</td>
@@ -708,9 +640,99 @@ Output Query_8.1
 </tr>
 
 <tr>
+<td class='normal' valign='top'>Baby Products</td>
+<td class='normal' valign='top'>3.4634</td>
+<td class='normal' valign='top'>5.5366</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Luxury Goods</td>
+<td class='normal' valign='top'>3.3243</td>
+<td class='normal' valign='top'>5.7027</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Mobile Accessories</td>
+<td class='normal' valign='top'>3.3171</td>
+<td class='normal' valign='top'>5.7805</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Hotels</td>
+<td class='normal' valign='top'>3.2778</td>
+<td class='normal' valign='top'>5.7500</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Beauty & Personal Care</td>
+<td class='normal' valign='top'>3.2647</td>
+<td class='normal' valign='top'>4.7647</td>
+</tr>
+
+<tr>
 <td class='normal' valign='top'>Software & Apps</td>
 <td class='normal' valign='top'>3.1628</td>
 <td class='normal' valign='top'>6.0465</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Office Supplies</td>
+<td class='normal' valign='top'>3.1579</td>
+<td class='normal' valign='top'>4.2632</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Health Care</td>
+<td class='normal' valign='top'>3.0976</td>
+<td class='normal' valign='top'>5.4146</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Health Supplements</td>
+<td class='normal' valign='top'>3.0732</td>
+<td class='normal' valign='top'>5.2683</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Packages)</td>
+<td class='normal' valign='top'>3.0465</td>
+<td class='normal' valign='top'>5.1163</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Animal Feed</td>
+<td class='normal' valign='top'>3.0000</td>
+<td class='normal' valign='top'>4.9545</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Clothing</td>
+<td class='normal' valign='top'>2.9667</td>
+<td class='normal' valign='top'>5.8667</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Furniture</td>
+<td class='normal' valign='top'>2.9512</td>
+<td class='normal' valign='top'>5.9512</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Home Appliances</td>
+<td class='normal' valign='top'>2.9400</td>
+<td class='normal' valign='top'>5.2400</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Electronics</td>
+<td class='normal' valign='top'>2.8889</td>
+<td class='normal' valign='top'>5.7222</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Sports & Outdoors</td>
+<td class='normal' valign='top'>2.8824</td>
+<td class='normal' valign='top'>5.2157</td>
 </tr>
 
 <tr>
@@ -726,21 +748,21 @@ Output Query_8.1
 </tr>
 
 <tr>
-<td class='normal' valign='top'>Office Supplies</td>
-<td class='normal' valign='top'>3.1579</td>
-<td class='normal' valign='top'>4.2632</td>
+<td class='normal' valign='top'>Food & Beverages</td>
+<td class='normal' valign='top'>2.7045</td>
+<td class='normal' valign='top'>4.7727</td>
 </tr>
 
 <tr>
-<td class='normal' valign='top'>Animal Feed</td>
-<td class='normal' valign='top'>3.0000</td>
-<td class='normal' valign='top'>4.9545</td>
+<td class='normal' valign='top'>Groceries</td>
+<td class='normal' valign='top'>2.6341</td>
+<td class='normal' valign='top'>5.2195</td>
 </tr>
 
 <tr>
-<td class='normal' valign='top'>Luxury Goods</td>
-<td class='normal' valign='top'>3.3243</td>
-<td class='normal' valign='top'>5.7027</td>
+<td class='normal' valign='top'>Arts & Crafts</td>
+<td class='normal' valign='top'>2.6176</td>
+<td class='normal' valign='top'>5.4706</td>
 </tr>
 
 <tr>
@@ -748,15 +770,11 @@ Output Query_8.1
 <td class='normal' valign='top'>2.5682</td>
 <td class='normal' valign='top'>5.2500</td>
 </tr>
-
-<tr>
-<td class='normal' valign='top'>Health Care</td>
-<td class='normal' valign='top'>3.0976</td>
-<td class='normal' valign='top'>5.4146</td>
-</tr>
 </table>
 </body></html>
 
+
+### Clientes que pesquisam mais antes de comprar ficam mais satisfeitos?
 
 Output Query_8.2
 
@@ -772,11 +790,6 @@ Output Query_8.2
 </tr>
 
 <tr>
-<td class='normal' valign='top'>2</td>
-<td class='normal' valign='top'>5.5373</td>
-</tr>
-
-<tr>
 <td class='normal' valign='top'>0</td>
 <td class='normal' valign='top'>5.5139</td>
 </tr>
@@ -784,6 +797,11 @@ Output Query_8.2
 <tr>
 <td class='normal' valign='top'>1</td>
 <td class='normal' valign='top'>5.1690</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>2</td>
+<td class='normal' valign='top'>5.5373</td>
 </tr>
 </table>
 </body></html>
