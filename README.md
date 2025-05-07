@@ -174,11 +174,11 @@ Output Query_4.1
 </tr>
 
 <tr>
-<td class='normal' valign='top'>36-45</td>
-<td class='normal' valign='top'>320</td>
-<td class='normal' valign='top'>274.9094</td>
-<td class='normal' valign='top'>6.9000</td>
-<td class='normal' valign='top'>87971</td>
+<td class='normal' valign='top'>18-25</td>
+<td class='normal' valign='top'>222</td>
+<td class='normal' valign='top'>279.0360</td>
+<td class='normal' valign='top'>7.2162</td>
+<td class='normal' valign='top'>61946</td>
 </tr>
 
 <tr>
@@ -190,11 +190,11 @@ Output Query_4.1
 </tr>
 
 <tr>
-<td class='normal' valign='top'>18-25</td>
-<td class='normal' valign='top'>222</td>
-<td class='normal' valign='top'>279.0360</td>
-<td class='normal' valign='top'>7.2162</td>
-<td class='normal' valign='top'>61946</td>
+<td class='normal' valign='top'>36-45</td>
+<td class='normal' valign='top'>320</td>
+<td class='normal' valign='top'>274.9094</td>
+<td class='normal' valign='top'>6.9000</td>
+<td class='normal' valign='top'>87971</td>
 </tr>
 
 <tr>
@@ -206,6 +206,7 @@ Output Query_4.1
 </tr>
 </table>
 </body></html>
+
 
 Output Query_4.2
 
