@@ -4,9 +4,11 @@ Análise de Dados sobre Comportamento do Consumidor usando SQL.
 
 ## Query_1
 
+Output Query_1
+
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Output da Query</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body>
 <table border=1>
