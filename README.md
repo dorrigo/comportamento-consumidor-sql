@@ -6,7 +6,7 @@ Análise de Dados sobre Comportamento do Consumidor usando SQL.
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Data</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Output da Query</title>
 </head>
 <body>
 <table border=1>
