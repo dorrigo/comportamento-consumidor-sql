@@ -428,14 +428,8 @@ Output Query_5
 </tr>
 
 <tr>
-<td class='normal' valign='top'>Furniture</td>
-<td class='normal' valign='top'>7.5854</td>
-<td class='normal' valign='top'>7.5470</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Packages)</td>
-<td class='normal' valign='top'>7.7674</td>
+<td class='normal' valign='top'>Gardening & Outdoors</td>
+<td class='normal' valign='top'>8.9545</td>
 <td class='normal' valign='top'>7.5470</td>
 </tr>
 
@@ -446,26 +440,14 @@ Output Query_5
 </tr>
 
 <tr>
-<td class='normal' valign='top'>Arts & Crafts</td>
-<td class='normal' valign='top'>8.0588</td>
-<td class='normal' valign='top'>7.5470</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Mobile Accessories</td>
-<td class='normal' valign='top'>7.7317</td>
-<td class='normal' valign='top'>7.5470</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Travel & Leisure (Flights</td>
-<td class='normal' valign='top'>8.0789</td>
-<td class='normal' valign='top'>7.5470</td>
-</tr>
-
-<tr>
 <td class='normal' valign='top'>Toys & Games</td>
 <td class='normal' valign='top'>8.2553</td>
+<td class='normal' valign='top'>7.5470</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Office Supplies</td>
+<td class='normal' valign='top'>8.2368</td>
 <td class='normal' valign='top'>7.5470</td>
 </tr>
 
@@ -482,8 +464,14 @@ Output Query_5
 </tr>
 
 <tr>
-<td class='normal' valign='top'>Office Supplies</td>
-<td class='normal' valign='top'>8.2368</td>
+<td class='normal' valign='top'>Travel & Leisure (Flights</td>
+<td class='normal' valign='top'>8.0789</td>
+<td class='normal' valign='top'>7.5470</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Arts & Crafts</td>
+<td class='normal' valign='top'>8.0588</td>
 <td class='normal' valign='top'>7.5470</td>
 </tr>
 
@@ -494,8 +482,20 @@ Output Query_5
 </tr>
 
 <tr>
-<td class='normal' valign='top'>Gardening & Outdoors</td>
-<td class='normal' valign='top'>8.9545</td>
+<td class='normal' valign='top'>Packages)</td>
+<td class='normal' valign='top'>7.7674</td>
+<td class='normal' valign='top'>7.5470</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Mobile Accessories</td>
+<td class='normal' valign='top'>7.7317</td>
+<td class='normal' valign='top'>7.5470</td>
+</tr>
+
+<tr>
+<td class='normal' valign='top'>Furniture</td>
+<td class='normal' valign='top'>7.5854</td>
 <td class='normal' valign='top'>7.5470</td>
 </tr>
 </table>
