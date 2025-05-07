@@ -11,7 +11,7 @@ FROM
     vw_ecommerce vw_eco ON vw_consumidor.customer_id = vw_eco.id
 GROUP BY vw_consumidor.faixa_etaria;
 
--- Quais são nossos principais perfis de clientes quando analisamos genero?
+-- Quais são nossos principais perfis de clientes quando analisamos gênero?
 SELECT 
     vw_consumidor.gender,
     COUNT(vw_consumidor.gender) AS total_clientes,
