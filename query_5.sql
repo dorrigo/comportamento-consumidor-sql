@@ -19,4 +19,5 @@ SELECT
     media_por_categoria.avg_categoria AS tempo_medio_decisao,
     media_geral.avg_geral AS tempo_media_geral
 FROM media_por_categoria, media_geral
-WHERE media_por_categoria.avg_categoria > media_geral.avg_geral;
+WHERE media_por_categoria.avg_categoria > media_geral.avg_geral
+ORDER BY tempo_medio_decisao DESC;
