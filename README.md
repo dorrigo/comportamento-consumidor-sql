@@ -114,7 +114,7 @@ Output Query_3
 
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Data</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body>
 <table border=1>
