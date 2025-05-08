@@ -27,6 +27,29 @@ Ideal para quem quer entender o consumidor na prática.
 
 ### Nossa campanha de anúncios está gerando resultados? Clientes que engajam com nossos anúncios compram mais do que os outros?
 
+Os dados mostram que:
+
+1. Clientes com alto engajamento em anúncios:
+- Representam a maior parcela de receita
+- Geram **7% a mais de receita** que clientes sem engajamento e **17.62% a mais** dos com baixo engajamento
+- Frequência de compra: **7.00 compras/mês** (acima da média geral 6.94)
+
+2. Oportunidades de melhoria:
+- Clientes com baixo engajamento trazem a menor participação de receita e ticket médio, menos do que os não engajam com anúncios
+- Clientes sem nenhum nível de engajamento com frequência de compra abaixo da média
+
+Estratégias Propostas
+
+Campanha para Clientes com Baixo Engajamento
+- **Público-alvo:** Clientes que engajaram nos últimos 6 meses (excluindo clientes engajados nos últimos 30 dias)
+- **Objetivo:** Aumentar conversão e nível de engajamento da base com baixo engajamento nos anúncios
+- **Principais KPIs:** Ticket médio, receita e nível de engajamento
+
+Campanha para Não Engajados
+- **Público-alvo:** Clientes sem engajamento nos últimos 180 dias
+- **Objetivo:** Aumentar o nível de engajamento e frequência de compra dos clientes não engajados
+- **Principais KPIs:** Frequência de compra e nível de engajamento
+
 Output Query_1
 
 <html>
