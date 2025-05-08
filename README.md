@@ -84,7 +84,7 @@ Os dados mostram que:
 1. Clientes com alto engajamento em anúncios:
 - Representam a maior parcela de receita
 - Geram **7% a mais de receita** que clientes sem engajamento e **17.62% a mais** dos com baixo engajamento
-- Frequência de compra: **7.00 compras/mês** (acima da média geral 6.94)
+- Frequência de compra: **7.00 compras/mês** (acima da média geral 6.95)
 
 2. Oportunidades de melhoria:
 - Clientes com baixo engajamento trazem a menor participação de receita e ticket médio, menos do que os não engajam com anúncios
@@ -101,7 +101,6 @@ Campanha para Não Engajados
 - **Público-alvo:** Clientes sem engajamento nos últimos 180 dias
 - **Objetivo:** Aumentar o nível de engajamento e frequência de compra dos clientes não engajados
 - **Principais KPIs:** Frequência de compra e nível de engajamento
-
 
 ## Query_2
 
@@ -156,6 +155,8 @@ Output Query_2
 </tr>
 </table>
 </body></html>
+
+
 
 
 ## Query_3
