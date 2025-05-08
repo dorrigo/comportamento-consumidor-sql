@@ -83,7 +83,7 @@ Os dados mostram que:
 
 1. Clientes com alto engajamento em anúncios:
 - Representam a maior parcela de receita
-- Geram **7% a mais de receita** que clientes sem engajamento e **17.62% a mais** dos com baixo engajamento
+- Geram **7% a mais de receita** que clientes sem engajamento e **17.6% a mais** dos com baixo engajamento
 - Frequência de compra: **7.00 compras/mês** (acima da média geral 6.95)
 
 2. Oportunidades de melhoria:
