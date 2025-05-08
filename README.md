@@ -1,6 +1,25 @@
 # comportamento-consumidor-sql
 Análise de Dados sobre Comportamento do Consumidor usando SQL.
 
+Sobre o Dataset:
+
+Este conjunto de dados com 1000 registros, oferece um raio-x completo do comportamento do consumidor, capturando desde padrões de compra até preferências individuais. Com informações detalhadas sobre:
+
+Dados demográficos (idade, localização, perfil socioeconômico, estado civil, gênero)
+
+Padrões de compra (intenção, tempo de decisão, sensibilidade a desconto)
+
+Satisfação e engajamento (avaliações, taxas de retorno, engajamento rede social, engajamento com anúncios, programa de fidelidade)
+
+Interações com produtos (categorias e-commerce, ticket médio, receita, métodos de pagamento)
+
+Por que ele é valioso?
+✔️ Segmentação precisa de públicos-alvo
+✔️ Entender como os clientes se comportam
+✔️ Otimização de campanhas de marketing
+
+Ideal para quem quer entender o consumidor na prática.
+
 
 ## Query_1
 
