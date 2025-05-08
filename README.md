@@ -13,8 +13,11 @@ Satisfação e engajamento (avaliações, taxas de retorno, engajamento rede soc
 Interações com produtos (categorias e-commerce, ticket médio, receita, métodos de pagamento)
 
 Por que ele é valioso?
+
 ✔️ Segmentação precisa de públicos-alvo
+
 ✔️ Entender como os clientes se comportam
+
 ✔️ Otimização de campanhas de marketing
 
 Ideal para quem quer entender o consumidor na prática.
