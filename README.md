@@ -1,7 +1,6 @@
-# comportamento-consumidor-sql
-Análise de Dados sobre Comportamento do Consumidor usando SQL.
+# Análise de Comportamento do Consumidor: Insights Baseados em Dados com SQL
 
-Sobre o Dataset:
+**Sobre o Dataset:**
 
 Este conjunto de dados com 1000 registros, oferece um raio-x completo do comportamento do consumidor, capturando desde padrões de compra até preferências individuais. Com informações detalhadas sobre:
 
