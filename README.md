@@ -22,6 +22,8 @@ Por que ele é valioso?
 
 Ideal para quem quer entender o consumidor na prática.
 
+**Separei todas as querys na documentação, onde pode visualizar separadamente cada uma. Além disso trouxe abaixo o que cada query retornou como output, de acordo com o questionamento em cima do dataset e a análise dos dados retornados.**
+
 
 ## Query_1
 
