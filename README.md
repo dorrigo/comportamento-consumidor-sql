@@ -90,7 +90,7 @@ Os dados mostram que:
 - Clientes com baixo engajamento trazem a menor participação de receita e ticket médio, menos do que os não engajam com anúncios
 - Clientes sem nenhum nível de engajamento com frequência de compra abaixo da média
 
-Estratégias Propostas
+**Estratégias Propostas**
 
 Campanha para Clientes com Baixo Engajamento
 - **Público-alvo:** Clientes que engajaram nos últimos 6 meses (excluindo clientes engajados nos últimos 30 dias)
