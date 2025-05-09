@@ -223,6 +223,27 @@ Output Query_3
 </table>
 </body></html>
 
+**Principais Insights**
+
+1. **Impacto na Receita**:
+   - Membros do programa tem ticket médio **9.8% menor** (R$260.58 vs R$289.04)
+   - Receita total **13% menor** entre membros do programa de fidelização
+
+2. **Problemas Identificados**:
+- Programa pode estar atraindo clientes de menor valor
+- Benefícios não estão convertendo em maior gasto e frequência de compra
+
+**Estratégias Propostas**
+
+**Revisão de Benefícios**:
+   - Criar incentivos no programa para aumento do ticket médio
+   - Oferecer vantagens progressivas por gasto acumulado
+   - Investimento na divulgação dos benefícios da fidelização para aumentar a aquisição de novos membros
+
+**Segmentação**:
+   - Avaliar criar níveis de fidelização, assim é possível dividir em subgrupos os perfis dos clientes (baixo, médio e alto ticket)
+   - Desenvolver estratégias específicas para cada perfil
+
 ## Query_4
 
 ### Qual é o nosso perfil de cliente ideal?
@@ -276,6 +297,12 @@ Output Query_4.1
 </tr>
 </table>
 </body></html>
+
+**Nosso perfil ideal de cliente atende os seguintes 
+
+
+
+
 
 
 Output Query_4.2
