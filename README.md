@@ -681,7 +681,7 @@ Output Query_6
    - Programas de fidelidade (não apenas descontos)
 
 **Para Pouco Sensíveis**:
-   - Manter ações de promoção e marketing 
+   - Manter sobre ações de promoção e marketing 
 
 **Para Não Sensíveis**:
    - Investir em experiência, serviço de qualidade e atendimento
@@ -744,196 +744,27 @@ Output Query_7
 
 1. **Ticket Médio**:
    - Compras **por desejo** têm maior valor (+13.7% vs impulsivas)
-   - Necessidade > Impulso (+9.3% no ticket)
+   - As compras impulsivas tem menor ocorrência e ticket médio
 
 2. **Frequência**:
-   - Compras **planejadas** são mais frequentes (+2.7% vs média)
+   - Compras **planejadas** são mais frequentes
    - Intenções emocionais (desejo/impulso) têm menor recorrência
 
 3. **Receita Total**:
-   - **Desejo** lidera (R$72.7k), seguido por **necessidade** (R$71.9k)
-   - Compras impulsivas geram menor receita (-12.5% vs desejo)
+   - **Desejo** lidera em receita, seguido por **necessidade**
+   - Compras impulsivas geram menor receita
+  
+**Estratégias Propostas**
 
-### 💡 Recomendações Estratégicas
-
-**Para Maximizar Receita**:
-- 🎯 **Aumentar conversão** de compras por desejo (maior ticket)
-- ⏳ **Estimular planejamento** (maior frequência)
-
-**Ações Específicas**:
-1. **Pacotes de Assinatura** para compras planejadas
-2. **Upsell Criativo** em categorias de desejo
-3. **Gatilhos de Urgência** para impulsivas (estoque limitado)
-
+**Anúncios com Comunicação Direcionada**:
+   - Ajustar a comunicação das campanhas de mídia paga para incentivar o aumento as compras planejadas e por impulso
+   - Campanhas que focam na dor do cliente para gerar mais intenção de necessidade de compra
 
 ## Query_8
 
-### Produtos melhor avaliados geram maior satisfação do cliente? Há relação direta?
-
-Output Query_8.1
-
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-</head>
-<body>
-<table border=1>
-<tr>
-<td bgcolor=silver class='medium'>purchase_category</td>
-<td bgcolor=silver class='medium'>media_avaliacao_produto</td>
-<td bgcolor=silver class='medium'>media_satisfacao_consumidor</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Travel & Leisure (Flights</td>
-<td class='normal' valign='top'>3.5789</td>
-<td class='normal' valign='top'>5.8421</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Toys & Games</td>
-<td class='normal' valign='top'>3.4681</td>
-<td class='normal' valign='top'>6.3404</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Baby Products</td>
-<td class='normal' valign='top'>3.4634</td>
-<td class='normal' valign='top'>5.5366</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Luxury Goods</td>
-<td class='normal' valign='top'>3.3243</td>
-<td class='normal' valign='top'>5.7027</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Mobile Accessories</td>
-<td class='normal' valign='top'>3.3171</td>
-<td class='normal' valign='top'>5.7805</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Hotels</td>
-<td class='normal' valign='top'>3.2778</td>
-<td class='normal' valign='top'>5.7500</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Beauty & Personal Care</td>
-<td class='normal' valign='top'>3.2647</td>
-<td class='normal' valign='top'>4.7647</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Software & Apps</td>
-<td class='normal' valign='top'>3.1628</td>
-<td class='normal' valign='top'>6.0465</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Office Supplies</td>
-<td class='normal' valign='top'>3.1579</td>
-<td class='normal' valign='top'>4.2632</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Health Care</td>
-<td class='normal' valign='top'>3.0976</td>
-<td class='normal' valign='top'>5.4146</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Health Supplements</td>
-<td class='normal' valign='top'>3.0732</td>
-<td class='normal' valign='top'>5.2683</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Packages)</td>
-<td class='normal' valign='top'>3.0465</td>
-<td class='normal' valign='top'>5.1163</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Animal Feed</td>
-<td class='normal' valign='top'>3.0000</td>
-<td class='normal' valign='top'>4.9545</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Clothing</td>
-<td class='normal' valign='top'>2.9667</td>
-<td class='normal' valign='top'>5.8667</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Furniture</td>
-<td class='normal' valign='top'>2.9512</td>
-<td class='normal' valign='top'>5.9512</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Home Appliances</td>
-<td class='normal' valign='top'>2.9400</td>
-<td class='normal' valign='top'>5.2400</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Electronics</td>
-<td class='normal' valign='top'>2.8889</td>
-<td class='normal' valign='top'>5.7222</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Sports & Outdoors</td>
-<td class='normal' valign='top'>2.8824</td>
-<td class='normal' valign='top'>5.2157</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Books</td>
-<td class='normal' valign='top'>2.8378</td>
-<td class='normal' valign='top'>5.1081</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Jewelry & Accessories</td>
-<td class='normal' valign='top'>2.7600</td>
-<td class='normal' valign='top'>5.0000</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Food & Beverages</td>
-<td class='normal' valign='top'>2.7045</td>
-<td class='normal' valign='top'>4.7727</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Groceries</td>
-<td class='normal' valign='top'>2.6341</td>
-<td class='normal' valign='top'>5.2195</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Arts & Crafts</td>
-<td class='normal' valign='top'>2.6176</td>
-<td class='normal' valign='top'>5.4706</td>
-</tr>
-
-<tr>
-<td class='normal' valign='top'>Gardening & Outdoors</td>
-<td class='normal' valign='top'>2.5682</td>
-<td class='normal' valign='top'>5.2500</td>
-</tr>
-</table>
-</body></html>
-
-
 ### Clientes que pesquisam mais antes de comprar ficam mais satisfeitos?
 
-Output Query_8.2
+Output Query_8
 
 <html>
 <head>
@@ -962,6 +793,8 @@ Output Query_8.2
 </tr>
 </table>
 </body></html>
+
+
 
 
 
