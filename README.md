@@ -621,9 +621,6 @@ Output Query_5
    - Campanhas para atingir o público que acessou a categoria e não finalizou compra nos últimos 7 dias
    - Oferecer cupom de desconto para as categorias com tempo de decisão alto a fim de incentivar a compra antecipada
 
-
-
-
 ## Query_6
 
 ### Clientes sensíveis a descontos tendem a ter maior taxa de retorno ou menor satisfação?
@@ -666,6 +663,26 @@ Output Query_6
 </table>
 </body></html>
 
+**Principais Insights**
+
+1. **Taxa de Retorno**:
+   - Clientes **não sensíveis** têm a **maior taxa de retorno**, são clientes mais fidelizados pois não precisam de desconto para comprar
+   - Os clientes mais sensíveis a desconto tem a menor taxa de retorno, são clientes que só querem comprar com desconto
+
+2. **Satisfação**:
+   - Clientes **pouco sensíveis** são os mais satisfeitos (5.51)
+   - Comportamento curioso: não sensíveis têm menor satisfação (5.28) mas maior retorno
+
+**Estratégias Propostas**
+
+**Para Muito Sensíveis**:
+   - Programas de fidelidade (não apenas descontos)
+
+**Para Pouco Sensíveis**:
+   - Manter ações de promoção e marketing 
+
+**Para Não Sensíveis**:
+   - Investir em experiência, serviço de qualidade e atendimento
 
 ## Query_7
 
