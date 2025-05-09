@@ -226,8 +226,8 @@ Output Query_3
 **Principais Insights**
 
 1. **Impacto na Receita**:
-   - Membros do programa tem ticket médio **9.8% menor** (R$260.58 vs R$289.04)
-   - Receita total **13% menor** entre membros do programa de fidelização
+- Membros do programa tem ticket médio **9.8% menor** (R$260.58 vs R$289.04)
+- Receita total **13% menor** entre membros do programa de fidelização
 
 2. **Problemas Identificados**:
 - Programa pode estar atraindo clientes de menor valor
@@ -297,13 +297,6 @@ Output Query_4.1
 </tr>
 </table>
 </body></html>
-
-**Nosso perfil ideal de cliente atende os seguintes 
-
-
-
-
-
 
 Output Query_4.2
 
@@ -516,6 +509,13 @@ Output Query_4.5
 </table>
 </body></html>
 
+**A partir dos dados demográficos analisados podemos traçar os nossos perfis de cliente ideal, os critérios vão além do perfil que só trás a maior receita, vou trazer um perfil baseado nas consultas feitas anteriormente:**
+
+- Faixa Etária: entre 26 - 45 anos
+- Bacharel 
+- Nível de renda: Classe média-alta
+  
+  - Não inclui Gênero e Estado Civil pela pouca diferença entre os dados de receita, frequência de compra e ticket médio
 
 ## Query_5
 
