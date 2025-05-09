@@ -22,7 +22,7 @@ Por que ele é valioso?
 
 Ideal para quem quer entender o consumidor na prática.
 
-**Separei todas as querys na documentação, onde pode visualizar separadamente cada uma. Além disso trouxe abaixo o que cada query retornou como output, de acordo com o questionamento em cima do dataset e a análise dos dados retornados.**
+**Separei todas as querys no repositório, onde você pode visualizar separadamente cada uma. Além disso trouxe abaixo o que cada query retornou como output, de acordo com o questionamento em cima do dataset e a análise dos dados retornados.**
 
 
 ## Query_1
@@ -79,12 +79,12 @@ Output Query_1
 </table>
 </body></html>
 
-Os dados mostram que:
+**Principais Insights**
 
 1. Clientes com alto engajamento em anúncios:
 - Representam a maior parcela de receita
 - Geram **7% a mais de receita** que clientes sem engajamento e **17.6% a mais** dos com baixo engajamento
-- Frequência de compra: **7.00 compras/mês** (acima da média geral 6.95)
+- Frequência de compra: **7/mês** (acima da média geral 6.95)
 
 2. Oportunidades de melhoria:
 - Clientes com baixo engajamento trazem a menor participação de receita e ticket médio, menos do que os não engajam com anúncios
@@ -92,12 +92,12 @@ Os dados mostram que:
 
 **Estratégias Propostas**
 
-Campanha para Clientes com Baixo Engajamento
+**Campanha para Clientes com Baixo Engajamento**
 - **Público-alvo:** Clientes que engajaram nos últimos 6 meses (excluindo clientes engajados nos últimos 30 dias)
 - **Objetivo:** Aumentar conversão e nível de engajamento da base com baixo engajamento nos anúncios
 - **Principais KPIs:** Ticket médio, receita e nível de engajamento
 
-Campanha para Não Engajados
+**Campanha para Não Engajados**
 - **Público-alvo:** Clientes sem engajamento nos últimos 180 dias
 - **Objetivo:** Aumentar o nível de engajamento e frequência de compra dos clientes não engajados
 - **Principais KPIs:** Frequência de compra e nível de engajamento
@@ -156,7 +156,30 @@ Output Query_2
 </table>
 </body></html>
 
+**Principais Insights**
 
+1. **Receita por Nível de Engajamento**:
+- Clientes com **alto engajamento** geram a **maior receita total** (R$76,194)
+- A diferença entre alto e nenhum engajamento é de **+17.4%** em receita total
+
+2. **Ticket Médio**:
+- Cresce progressivamente com o engajamento (de R$262.79 para R$284.31)
+- Clientes com alto engajamento gastam **8.2% mais** por compra
+
+3. **Frequência de Compra**:
+- Relação inversa: engajamento mais alto tem uma frequência ligeiramente menor e abaixo da média geral (6.94)
+- Clientes com **baixo engajamento** compram com maior frequência (7.12/mês)
+
+**Estratégias Propostas**
+
+**Aumento do ticket médio**:
+  - Oferecer para o cliente na hora da compra opções de *cross-selling* e *upselling* (**compre junto e oferecer produto mais completo**)
+  - Ações de marketing para produtos de ticket alto
+
+**Converter níveis mais baixos de engajamento**:
+  - Utilizar postagens com promoções pontuais de curta duração
+  - Ações semanais nas redes sociais para aumentar frequência de compra
+  - Implementar estratégias de ativação via redes sociais
 
 
 ## Query_3
