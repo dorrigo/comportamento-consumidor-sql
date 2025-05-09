@@ -22,7 +22,7 @@ Por que ele é valioso?
 
 Ideal para quem quer entender o consumidor na prática.
 
-**Separei todas as querys no repositório, onde você pode visualizar separadamente cada uma. Além disso trouxe abaixo o que cada query retornou como output, de acordo com o questionamento em cima do dataset e a análise dos dados retornados.**
+**Separei todas as querys no repositório, onde você pode visualizar separadamente cada uma. Além disso trouxe abaixo o que cada query retornou como output, de acordo com o questionamento realizado em cima do dataset e a análise dos dados retornados.**
 
 
 ## Query_1
@@ -793,6 +793,26 @@ Output Query_8
 </tr>
 </table>
 </body></html>
+
+**Principais Insights**
+
+1. **Compradores Rápidos (<1h)**:
+   - Satisfação elevada (5.51)
+   - Possivelmente compram produtos conhecidos/marcas de confiança
+
+2. **Pesquisa Intermediária (1-2h)**:
+   - **Menor satisfação** (5.17)
+   - Produto pode não estar atendendo a expectativa do cliente
+
+3. **Pesquisadores Dedicados (>2h)**:
+   - **Máxima satisfação** (5.54)
+   - Tomada de decisão mais assertiva
+
+**Estratégias Propostas**
+
+**Para Compradores de 1-2h**:
+   - Adicionar seção de **Produtos Semelhantes**
+   - Destacar as avaliações de quem já comprou o produto para ajudar na decisão de compra
 
 
 
