@@ -82,13 +82,13 @@ Output Query_1
 **Principais Insights**
 
 1. Clientes com alto engajamento em anúncios:
-  - Representam a maior parcela de receita
-  - Geram **7% a mais de receita** que clientes sem engajamento e **17.6% a mais** dos com baixo engajamento
-  - Frequência de compra: **7/mês** (acima da média geral 6.95)
+    - Representam a maior parcela de receita
+    - Geram **7% a mais de receita** que clientes sem engajamento e **17.6% a mais** dos com baixo engajamento
+    - Frequência de compra: **7/mês** (acima da média geral 6.95)
 
 2. Oportunidades de melhoria:
-  - Clientes com baixo engajamento trazem a menor participação de receita e ticket médio, menos do que os não engajam com anúncios
-  - Clientes sem nenhum nível de engajamento com frequência de compra abaixo da média
+    - Clientes com baixo engajamento trazem a menor participação de receita e ticket médio, menos do que os não engajam com anúncios
+    - Clientes sem nenhum nível de engajamento com frequência de compra abaixo da média
 
 **Estratégias Propostas**
 
@@ -159,16 +159,16 @@ Output Query_2
 **Principais Insights**
 
 1. **Receita por Nível de Engajamento**:
-  - Clientes com **alto engajamento** geram a **maior receita total** (R$76,194)
-  - A diferença entre alto e nenhum engajamento é de **+17.4%** em receita total
+    - Clientes com **alto engajamento** geram a **maior receita total** (R$76,194)
+    - A diferença entre alto e nenhum engajamento é de **+17.4%** em receita total
 
 2. **Ticket Médio**:
-  - Cresce progressivamente com o engajamento (de R$262.79 para R$284.31)
-  - Clientes com alto engajamento gastam **8.2% mais** por compra
+    - Cresce progressivamente com o engajamento (de R$262.79 para R$284.31)
+    - Clientes com alto engajamento gastam **8.2% mais** por compra
 
 3. **Frequência de Compra**:
-  - Relação inversa: engajamento mais alto tem uma frequência ligeiramente menor e abaixo da média geral (6.94)
-  - Clientes com **baixo engajamento** compram com maior frequência (7.12/mês)
+    - Relação inversa: engajamento mais alto tem uma frequência ligeiramente menor e abaixo da média geral (6.94)
+    - Clientes com **baixo engajamento** compram com maior frequência (7.12/mês)
 
 **Estratégias Propostas**
 
@@ -231,7 +231,7 @@ Output Query_3
 
 2. **Problemas Identificados**:
     - Programa pode estar atraindo clientes de menor valor
-    - Benefícios não estão convertendo em maior gasto e frequência de compra
+   - Benefícios não estão convertendo em maior gasto e frequência de compra
 
 **Estratégias Propostas**
 
