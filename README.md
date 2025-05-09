@@ -244,6 +244,8 @@ Output Query_3
    - Avaliar criar níveis de fidelização, assim é possível dividir em subgrupos os perfis dos clientes (baixo, médio e alto ticket)
    - Desenvolver estratégias específicas para cada perfil
 
+**Como bônus do projeto e pensando no programa de fidelidade, desenvolvi duas Procedures uma para cadastrar usuários no Programa de Fidelidade e outra para Descadastrar de forma otimizada! Vocês podem conferir no repositório em [procedure_programa_fidelidade.sql](./https://github.com/dorrigo/comportamento-consumidor-sql/blob/main/procedure_programa_fidelidade.sql)**
+
 ## Query_4
 
 ### Qual é o nosso perfil de cliente ideal?
@@ -737,6 +739,32 @@ Output Query_7
 </tr>
 </table>
 </body></html>
+
+**Principais Insights**
+
+1. **Ticket Médio**:
+   - Compras **por desejo** têm maior valor (+13.7% vs impulsivas)
+   - Necessidade > Impulso (+9.3% no ticket)
+
+2. **Frequência**:
+   - Compras **planejadas** são mais frequentes (+2.7% vs média)
+   - Intenções emocionais (desejo/impulso) têm menor recorrência
+
+3. **Receita Total**:
+   - **Desejo** lidera (R$72.7k), seguido por **necessidade** (R$71.9k)
+   - Compras impulsivas geram menor receita (-12.5% vs desejo)
+
+### 💡 Recomendações Estratégicas
+
+**Para Maximizar Receita**:
+- 🎯 **Aumentar conversão** de compras por desejo (maior ticket)
+- ⏳ **Estimular planejamento** (maior frequência)
+
+**Ações Específicas**:
+1. **Pacotes de Assinatura** para compras planejadas
+2. **Upsell Criativo** em categorias de desejo
+3. **Gatilhos de Urgência** para impulsivas (estoque limitado)
+
 
 ## Query_8
 
