@@ -609,6 +609,20 @@ Output Query_5
 </table>
 </body></html>
 
+**Principais Insights**
+- Temos pelos menos 8 categorias de produto com uma média de pelo menos 8 dias para tomar a decisão de compra, dentre elas o top 3:
+  - Gardening & Outdoors (Jardinagem e Atividades ao Ar Livre)
+  - Beauty & Personal Care (Beleza e Cuidado Pessoal)
+  - Toys & Games (Brinquedos e Jogos)
+
+**Estratégias Propostas**
+
+**Campanhas de Remarketing**:
+   - Campanhas para atingir o público que acessou a categoria e não finalizou compra nos últimos 7 dias
+   - Oferecer cupom de desconto para as categorias com tempo de decisão alto a fim de incentivar a compra antecipada
+
+
+
 
 ## Query_6
 
